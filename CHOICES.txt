@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: (1a.md)
 Second Choice:(2b.md)
-Third Choice: (3c.md)
-Fourth Choice:(5d.md)
+Third Choice: (3a.md)
+Fourth Choice:(5a.md)
 Fifth Choice: ____
